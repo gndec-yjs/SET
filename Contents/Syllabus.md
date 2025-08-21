@@ -1,10 +1,12 @@
 # Syllabus
 
-**Course Title:** Sustainable Engineering and Technologies  
-**Course Code:** PCCE-702F-1B  
-**Category:** Professional Course Courses  
-**Credits:** 4 (3L + 1T + 0P)  
-**Marks:** External: 80, Internal: 20, Total: 100  
+| **Category** | **Code** | **Course Title** | **Semester** | **Hours per week** | **Credits** |
+| -- | -- | -- | -- | -- | -- |
+| Professional Core Courses | PCCE-702F-1B | Sustainable Engineering and Technologies | 7th/8th | L: 3, T: 1, P: 0 | 4 |
+
+**External Marks**: 60, **Internal Marks**: 40, **Total Marks**: 100
+
+## Content
 
 ## Unit 1: Introduction
 Sustainability – Introduction, Need and concept of sustainability, Social, environmental and economic sustainability concepts, Sustainable development, Nexus between Technology and Sustainable Development, Challenges for Sustainable Development, Multilateral environmental agreements.  
