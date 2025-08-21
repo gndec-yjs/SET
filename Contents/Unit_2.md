@@ -45,10 +45,8 @@ Resource degradation refers to the decline in the **quality, quantity, or availa
 * Loss of biodiversity  
 * Threat to sustainable economic development
 
-### 🖼️ *Illustrative Placeholder*
+<img width="464" height="400" alt="image" src="https://github.com/user-attachments/assets/aed4a59b-0df0-469d-9a33-06c4674f8b21" />
 
-![Resource Degradation Diagram](https://via.placeholder.com/600x300.png?text=Resource+Degradation+Flowchart)  
-*Figure: Resource degradation pathways and impacts.*
 
 ### 🌱 Mitigation Strategies
 
@@ -90,10 +88,7 @@ Climate change refers to the **long-term alteration of temperature and typical w
 * **Mitigation:** renewables, energy efficiency, CCS, reforestation  
 * **Adaptation:** resilient crops, coastal protection, disaster management, urban planning
 
-### 🖼️ *Illustrative Placeholder*
-
-![Climate Change Impacts](https://via.placeholder.com/600x300.png?text=Climate+Change+Impacts+and+Responses)  
-*Figure: Climate change impacts and mitigation/adaptation measures.*
+<img width="1402" height="895" alt="image" src="https://github.com/user-attachments/assets/5674b7f6-82d1-4a5d-8797-55d6d09d3771" />
 
 ---
 
@@ -127,7 +122,7 @@ Climate change refers to the **long-term alteration of temperature and typical w
 ### 2.3.1 Regional Issues
 
 * **Air Pollution in South Asia** – PM2.5/PM10, smog  
-* **Water Scarcity (MENA)** – arid climate, desalination reliance  
+* **Water Scarcity (MENA - Middle East and North Africa)** – arid climate, desalination reliance  
 * **Deforestation (Amazon & SE Asia)** – agriculture & logging  
 * **Acid Rain in Europe** – SO₂/NOx emissions, cross-border pollution
 
@@ -137,10 +132,6 @@ Climate change refers to the **long-term alteration of temperature and typical w
 * **Groundwater Depletion** – over-extraction, long-term impact  
 * **Urban Flooding** – poor drainage, wetland encroachment  
 * **Noise Pollution** – traffic, industrial activity, health impacts
-
-### 🖼️ *Illustrative Placeholder*
-
-![Global to Local Environmental Issues](https://via.placeholder.com/600x300.png?text=Global+→+Regional+→+Local+Environmental+Issues)
 
 ---
 
@@ -156,11 +147,15 @@ Climate change refers to the **long-term alteration of temperature and typical w
 ### 2.4.2 Carbon Trading
 
 * Market mechanism for buying & selling credits  
-* **Compliance Markets:** e.g., EU-ETS  
-* **Voluntary Markets:** e.g., airline offsets  
+* **Compliance Markets:** e.g., EU-ETS (European Union Emissions Trading System) 
+* **Voluntary Markets:** e.g., airline offsets - Airline offsets compensate for CO2 emissions by investing in projects that reduce or remove an equivalent amount of greenhouse gases elsewhere, such as renewable energy or reforestation. 
 * Benefits: cost-effective emission reductions, incentives for clean tech
 
 ### 2.4.3 Kyoto Protocol Mechanisms
+
+Kyoto, Japan, the city where the landmark international agreement was adopted on December 11, 1997, under the UN Framework Convention on Climate Change. The Protocol established binding greenhouse gas (GHG) reduction targets for industrialized nations and introduced three market-based mechanisms—the Clean Development Mechanism (CDM), Joint Implementation (JI), and Emissions Trading (ET)—to help achieve these goals cost-effectively. 
+
+The Kyoto Protocol established three "flexible mechanisms" to help industrialized countries meet their emission reduction targets more cost-effectively. These mechanisms allow for flexibility in how countries achieve their emission reduction commitments, promoting cost-effectiveness and potentially stimulating sustainable development. 
 
 * **CDM:** developed → developing countries  
 * **JI:** developed → developed  
@@ -168,10 +163,28 @@ Climate change refers to the **long-term alteration of temperature and typical w
 
 ### 2.4.4 Challenges
 
-* Market volatility  
-* Greenwashing risk  
-* Unequal benefits  
-* Complex MRV
+While sustainable engineering practices and mechanisms such as carbon trading or green certification schemes have great potential, their implementation faces several challenges:
+
+1. **Market Volatility**  
+   - The value of carbon credits and renewable energy certificates often fluctuates due to changes in international agreements, government policies, and demand–supply imbalances.  
+   - This uncertainty discourages long-term investment by industries and makes project planning risky.  
+   - Example: The global carbon market has witnessed significant price crashes in the past, leading to reduced confidence among stakeholders.
+
+2. **Greenwashing Risk**  
+   - Many companies use sustainability-related terms for marketing without making real changes in their operations.  
+   - This creates a gap between claimed and actual environmental benefits, undermining the credibility of sustainability initiatives.  
+   - Example: A firm may advertise itself as “carbon neutral” simply by purchasing cheap offsets, while continuing high emissions.
+
+3. **Unequal Benefits**  
+   - The economic and social benefits of sustainability measures are not distributed evenly across regions and communities.  
+   - Developing nations or marginalized groups may find it harder to access clean technologies, finance, or benefits from carbon markets.  
+   - This can widen the gap between developed and developing economies in achieving sustainability goals.
+
+4. **Complex MRV (Monitoring, Reporting, and Verification)**  
+   - Sustainable initiatives, especially carbon markets and emission reductions, require robust MRV systems to ensure transparency and accountability.  
+   - However, setting up accurate MRV frameworks is technically challenging and expensive, particularly for small-scale projects.  
+   - Lack of standardized procedures across countries often leads to disputes about the actual impact of reported measures.
+
 
 ### 📊 Global Carbon Markets Snapshot (2023)
 
@@ -221,9 +234,9 @@ The **carbon footprint** is a measure of the total greenhouse gas (GHG) emission
 * **Life Cycle Assessment (LCA):** Identify emissions hotspots to optimize processes.
 * **Policy & Standards:** Encourage carbon labelling and emission caps.
 
-### 🖼️ *Illustrative Placeholder*
 
-![Carbon Footprint Diagram](https://via.placeholder.com/600x300.png?text=Carbon+Footprint+Lifecycle)
+<img width="364" height="250" alt="image" src="https://github.com/user-attachments/assets/e46ade27-131e-40d2-be71-ae4cf03e9fc2" />
+
 *Figure: Lifecycle contributions to the carbon footprint.*
 
 ---
@@ -273,9 +286,8 @@ The **carbon footprint** is a measure of the total greenhouse gas (GHG) emission
 * Energy-intensive capture process may offset some benefits.
 * Site-specific geological suitability required.
 
-### 🖼️ *Illustrative Placeholder*
+<img width="1688" height="844" alt="image" src="https://github.com/user-attachments/assets/f45e18a0-3616-4aae-9cd6-673bcf42fbef" />
 
-![Carbon Sequestration Diagram](https://via.placeholder.com/600x300.png?text=Carbon+Sequestration+Techniques)
 *Figure: Biological, geological, and chemical carbon sequestration pathways.*
 
 ---
@@ -325,9 +337,12 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 * Optimize energy efficiency in buildings.
 * Identify hotspots in infrastructure lifecycle.
 
-### 🖼️ *Illustrative Placeholder*
+<img width="558" height="558" alt="image" src="https://github.com/user-attachments/assets/2ffa9e22-458a-49c0-83c8-9b37173d07c3" />
 
-![Life Cycle Analysis](https://via.placeholder.com/600x300.png?text=Life+Cycle+Analysis+Flowchart)
+<img width="1024" height="661" alt="image" src="https://github.com/user-attachments/assets/c383f616-3646-405b-a5fc-4bb240d7432a" />
+
+
+*Fig. Life Cycle Assessment*
 
 ---
 
