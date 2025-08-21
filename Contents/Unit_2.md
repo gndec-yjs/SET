@@ -184,7 +184,7 @@ Climate change refers to the **long-term alteration of temperature and typical w
 
 ---
 
-# 2.5 Carbon Footprint
+## 2.5 Carbon Footprint
 
 The **carbon footprint** is a measure of the total greenhouse gas (GHG) emissions caused directly and indirectly by an individual, organization, product, or activity, expressed in **tonnes of CO₂ equivalent (tCO₂e)**. It quantifies the contribution to global warming and is a critical metric in sustainable development and climate policy.
 
@@ -228,7 +228,7 @@ The **carbon footprint** is a measure of the total greenhouse gas (GHG) emission
 
 ---
 
-# 2.6 Carbon Sequestration – Carbon Capture and Storage (CCS)
+## 2.6 Carbon Sequestration – Carbon Capture and Storage (CCS)
 
 **Carbon sequestration** refers to **the capture and long-term storage of CO₂** to prevent its release into the atmosphere. CCS is one of the most promising technologies for mitigating climate change in industrial and power-generation sectors.
 
@@ -280,7 +280,7 @@ The **carbon footprint** is a measure of the total greenhouse gas (GHG) emission
 
 ---
 
-# 2.7 Environmental Management Standards
+## 2.7 Environmental Management Standards
 
 **Environmental Management Standards (EMS)** are frameworks that help organizations **manage environmental responsibilities systematically** to reduce pollution, improve resource efficiency, and ensure regulatory compliance.
 
@@ -308,7 +308,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.9 Life Cycle Analysis (LCA) – Scope and Goal
+## 2.9 Life Cycle Analysis (LCA) – Scope and Goal
 
 **Life Cycle Analysis (LCA)** evaluates **environmental impacts “from cradle to grave”**, covering raw material extraction, manufacturing, transportation, usage, and disposal.
 
@@ -331,7 +331,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.10 Bio-mimicking and Protocols
+## 2.10 Bio-mimicking and Protocols
 
 **Bio-mimicry** applies **nature-inspired solutions** for sustainable engineering and design.
 
@@ -351,7 +351,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.11 Case Study / Practical Insight
+## 2.11 Case Study / Practical Insight
 
 **The Edge, Amsterdam – Green Office Building**
 
@@ -364,7 +364,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.12 Assignments / Exercises
+## 2.12 Assignments / Exercises
 
 **Short Answer**
 
@@ -384,7 +384,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.13 MCQs / Review Questions
+## 2.13 MCQs / Review Questions
 
 1. Unit of carbon footprint: a) tCO₂e ✅
 2. Example of biological carbon sequestration: b) Forest planting ✅
@@ -394,7 +394,7 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-# 2.14 References
+## 2.14 References
 
 * IPCC (2021). *Climate Change 2021: The Physical Science Basis*
 * UN (2015). *Paris Agreement*
