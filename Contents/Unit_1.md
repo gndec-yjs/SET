@@ -229,7 +229,7 @@ While sustainable development is a global priority, its implementation faces mul
 
 ---
 
-# **1.6 Multilateral Environmental Agreements (MEAs)**
+## **1.6 Multilateral Environmental Agreements (MEAs)**
 
 Multilateral Environmental Agreements (MEAs) are treaties between three or more countries that address global or regional environmental issues. They provide a legal and institutional framework for cooperation, monitoring, reporting, and compliance. These agreements have evolved over decades to cover emerging challenges such as climate change, biodiversity loss, desertification, marine ecosystem protection, and chemical pollution.
 
