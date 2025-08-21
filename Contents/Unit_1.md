@@ -20,7 +20,7 @@ Sustainability refers to the ability to **meet the needs of the present without 
 It involves maintaining a balance among three interconnected pillars:  
 - **Environmental Sustainability** – protecting natural resources and ecosystems.  
 - **Social Sustainability** – ensuring human well-being, equity, and community development.  
-- **Economic Sustainability** – promoting long-term economic growth without creating negative externalities.  
+- **Economic Sustainability** – promoting long-term economic growth without creating negative externalities.
 
 ### 🌍 Why Sustainability is Needed in Civil Engineering?  
 1. **Rapid Urbanization** → Rising demand for infrastructure, but with resource constraints.  
@@ -45,6 +45,9 @@ Sustainability is built on the integration of **three interdependent dimensions*
 3. **Economic Sustainability**  
 
 Together, they form the "Triple Bottom Line" of sustainable development.  
+
+<img width="264" height="191" alt="image" src="https://github.com/user-attachments/assets/f77c346f-31dd-45cc-9736-9f4930389d20" />
+
 
 ### 🧑‍🤝‍🧑 Social Sustainability  
 - Focuses on **equity, inclusiveness, and quality of life**.  
@@ -71,17 +74,10 @@ Together, they form the "Triple Bottom Line" of sustainable development.
   - Provides affordable housing (**social**),  
   - Ensures low life-cycle costs (**economic**).  
 
-📷 *Image Placeholder: Venn Diagram of Social, Environmental, and Economic Sustainability (Triple Bottom Line)*  
-
-
 ### 📌 Key Takeaways  
 > ✅ Sustainability stands on **three pillars: Social, Environmental, and Economic**.  
 > ✅ Civil engineers must balance all three in planning, design, and execution.  
 > ✅ Ignoring one pillar leads to imbalance and unsustainable growth.  
-
----
-
-You're right 👍 — icons make the notes more visually structured (just like I did earlier for 1.1 and 1.2). Let me redo **Unit 1.3 Sustainable Development** in the same format with icons:
 
 ---
 
@@ -191,6 +187,8 @@ While sustainable development is a global priority, its implementation faces mul
 
 ### 🚧 **Major Challenges**
 
+<img width="850" height="593" alt="image" src="https://github.com/user-attachments/assets/c32d563f-6a5c-4dd8-a69d-89dd52497a9a" />
+
 1. **Resource Scarcity**
 
    * Over-dependence on **non-renewable resources** (coal, petroleum, natural aggregates).
@@ -215,11 +213,6 @@ While sustainable development is a global priority, its implementation faces mul
 
    * Resistance to change due to lack of awareness.
    * Inequities in access to clean energy, housing, and infrastructure.
-
-### 📊 **Visual Representation**
-
-*(Insert image/infographic here – e.g., a triangular diagram showing “Economic, Social, Environmental Challenges” with overlaps highlighting the complexity)*
-
 
 ### 📌 **Key Takeaways**
 
@@ -292,8 +285,6 @@ Multilateral Environmental Agreements (MEAs) are treaties between three or more 
 
 * Seeks to unify international environmental law under a single, binding framework.
 
-### 🖼️ *\[Insert illustrative image: e.g., icons of Earth, oceans, biodiversity, renewable energy]*
-
 ### 📊 **Summary Table of Key MEAs**
 
 | **Agreement / Protocol**                       | **Year**  | **Key Focus**                                         |
@@ -312,10 +303,6 @@ Multilateral Environmental Agreements (MEAs) are treaties between three or more 
 | Kunming–Montreal Global Biodiversity Framework | 2022      | Biodiversity targets, 30x30 conservation goal         |
 | BBNJ (High Seas) Agreement                     | 2023      | Marine biodiversity beyond national jurisdiction      |
 | Global Pact for the Environment                | 2020s     | Universal environmental law & rights (proposal stage) |
-
-### 📊 Visual Representation
-
-(Insert infographic placeholder here – e.g., a world map showing major MEAs with icons like 🌱 for biodiversity, 🌍 for climate, ♻️ for waste, etc.)
 
 ### 📌 Key Takeaways
 
@@ -347,8 +334,6 @@ The **Delhi Metro** is often cited as a benchmark of sustainable civil engineeri
 
   * Boosts productivity by cutting travel time.
   * Encourages commercial growth around metro corridors (Transit-Oriented Development).
-
-![Placeholder for Delhi Metro Sustainable Features Image](image-link-here)
 
 ### 🌐 Global Case Studies in Sustainability
 
@@ -468,16 +453,7 @@ The **Delhi Metro** is often cited as a benchmark of sustainable civil engineeri
 
 ### ✅ Answer Key
 
-1 → d
-2 → a
-3 → b
-4 → b
-5 → b
-6 → d
-7 → a
-8 → b
-9 → b
-10 → c
+- 1 → d, 2 → a, 3 → b, 4 → b, 5 → b, 6 → d, 7 → a, 8 → b, 9 → b, 10 → c
 
 ---
 
