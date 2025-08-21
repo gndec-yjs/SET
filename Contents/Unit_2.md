@@ -10,10 +10,10 @@
 [ISO 14000 Series](#28-iso-14000-series)  
 [Life Cycle Analysis (LCA) – Scope and Goal](#29-life-cycle-analysis-lca--scope-and-goal)  
 [Bio-mimicking and Protocols](#210-bio-mimicking-and-protocols)  
-[Case Study / Practical Insight](#211-case-study--practical-insight)  
-[Assignments / Exercises](#212-assignments--exercises)  
-[MCQs / Review Questions](#213-mcqs--review-questions)  
-[References](#214-references)
+- [Case Study / Practical Insight](#211-case-study--practical-insight)  
+- [Assignments / Exercises](#212-assignments--exercises)  
+- [MCQs / Review Questions](#213-mcqs--review-questions)  
+- [References](#214-references)
 
 ---
 
