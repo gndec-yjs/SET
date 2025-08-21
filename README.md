@@ -2,7 +2,7 @@
 
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Contact](Contents/Contact.md)** |  
 
-![SET](Contents/SET.png)
+![SET](Contents/Images/SET.png)
 
 ---
 
