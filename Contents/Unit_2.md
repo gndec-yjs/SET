@@ -317,14 +317,31 @@ The **carbon footprint** is a measure of the total greenhouse gas (GHG) emission
 
 # 2.8 ISO 14000 Series
 
+**_The ISO 14000 series provides a framework for organizations to minimize negative impacts on the environment while improving operational efficiency._**  
+
+The ISO 14000 series is a set of international standards developed by the International Organization for Standardization (ISO) to help organizations manage their environmental responsibilities.  
+
+- The most widely used standard is ISO 14001, which specifies requirements for an Environmental Management System (EMS).
+
+- Other standards in the series address environmental auditing (ISO 14010–14019), life cycle assessment (ISO 14040–14049), eco-labeling (ISO 14020–14029), and greenhouse gas management (ISO 14064).
+
+- These standards aim to promote sustainability, pollution prevention, compliance with regulations, and continual improvement.
+
+
 The **ISO 14000 series** is a global benchmark for environmental management systems.
 
-| Standard  | Focus                           | Purpose / Application                                  |
-| --------- | ------------------------------- | ------------------------------------------------------ |
-| ISO 14001 | Environmental Management System | Implement EMS in organizations                         |
-| ISO 14004 | EMS Guidelines                  | Support ISO 14001 adoption and best practices          |
-| ISO 14006 | Eco-design Integration          | Incorporate sustainability into product design         |
-| ISO 14064 | GHG Accounting                  | Quantify, monitor, and report greenhouse gas emissions |
+| **Standard**        | **Focus**                             | **Purpose / Application**                                                                     |
+| ------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **ISO 14001**       | Environmental Management System (EMS) | Framework for organizations to establish, implement, and improve an EMS.                      |
+| **ISO 14004**       | EMS Guidelines                        | Provides guidelines and principles to support ISO 14001 adoption and continual improvement.   |
+| **ISO 14006**       | Eco-design Integration                | Guidance on incorporating eco-design and sustainability into product development.             |
+| **ISO 14020–14025** | Environmental Labels & Declarations   | Principles and specific requirements for eco-labeling and environmental product declarations. |
+| **ISO 14031**       | Environmental Performance Evaluation  | Provides indicators and methods for evaluating environmental performance.                     |
+| **ISO 14040–14049** | Life Cycle Assessment (LCA)           | Framework and guidelines for conducting life cycle assessments of products and services.      |
+| **ISO 14046**       | Water Footprint                       | Principles, requirements, and guidelines for water footprint assessment.                      |
+| **ISO 14064**       | Greenhouse Gas (GHG) Accounting       | Standards for quantifying, monitoring, and reporting greenhouse gas emissions and removals.   |
+| **ISO 14067**       | Carbon Footprint of Products          | Specifies requirements for quantifying and communicating product carbon footprints.           |
+
 
 *Benefits:* Control construction waste, emissions, reduce resource use, comply with regulations.
 
