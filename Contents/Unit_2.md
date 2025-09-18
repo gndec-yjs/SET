@@ -409,13 +409,42 @@ The **ISO 14000 series** is a global benchmark for environmental management syst
 
 ---
 
-## 2.13 MCQs / Review Questions
+## **2.13 MCQs / Review Questions**
 
-1. Unit of carbon footprint: a) tCO₂e ✅
-2. Example of biological carbon sequestration: b) Forest planting ✅
-3. ISO 14001 standard is for: b) EMS ✅
-4. LCA excludes: c) Marketing strategies ✅
-5. Bio-mimicry helps in: a) Energy reduction, b) Material efficiency, c) Operational sustainability ✅
+**Q1.** The standard unit for measuring carbon footprint is:
+a) kWh
+b) Joules
+c) tCO₂e
+d) Kg of fuel
+✅ **Answer: c) tCO₂e**
+
+**Q2.** An example of **biological carbon sequestration** is:
+a) Carbon capture and storage (CCS) in industries
+b) Forest planting / afforestation
+c) Direct air capture technology
+d) Geological storage in saline aquifers
+✅ **Answer: b) Forest planting / afforestation**
+
+**Q3.** The **ISO 14001** standard refers to:
+a) Quality Management System (QMS)
+b) Environmental Management System (EMS)
+c) Occupational Health & Safety (OHSAS)
+d) Energy Management System (EnMS)
+✅ **Answer: b) Environmental Management System (EMS)**
+
+**Q4.** A **Life Cycle Assessment (LCA)** study does **NOT** include:
+a) Goal and scope definition
+b) Inventory analysis
+c) Marketing strategies
+d) Impact assessment
+✅ **Answer: c) Marketing strategies**
+
+**Q5.** **Biomimicry** in sustainable design can help in:
+a) Energy-efficient building design (e.g., termite mound-inspired cooling)
+b) Strong but lightweight materials (e.g., spider silk)
+c) Water collection systems (e.g., desert beetles)
+d) All of the above
+✅ **Answer: d) All of the above**
 
 ---
 
