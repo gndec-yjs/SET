@@ -139,12 +139,22 @@ Climate change refers to the **long-term alteration of temperature and typical w
 
 ### 2.4.1 Carbon Credits
 
+A carbon credit is a tradable certificate that represents the right to emit one metric tonne of carbon dioxide (CO₂) or an equivalent amount of other greenhouse gases (GHGs).
+
+- These credits are generated when an activity or project reduces, avoids, or removes GHG emissions (e.g., renewable energy projects, reforestation, energy efficiency measures).
+- They provide an economic incentive for organizations to adopt cleaner technologies and sustainable practices.
+
 * Right to emit **1 tonne of CO₂**  
 * Incentivizes emission reduction  
 * Generated via renewable energy, reforestation, energy efficiency  
 * Surplus credits can be sold; excess emitters must buy
 
 ### 2.4.2 Carbon Trading
+
+Carbon trading is a market-based mechanism that allows entities (countries, companies, or organizations) to buy and sell carbon credits in order to meet emission reduction targets.
+
+- It operates under either compliance markets (regulated by international agreements or national policies, e.g., EU-ETS) or voluntary markets (corporates or individuals offsetting emissions).
+- The system promotes cost-effective emission reductions and global cooperation in combating climate change.
 
 * Market mechanism for buying & selling credits  
 * **Compliance Markets:** e.g., EU-ETS (European Union Emissions Trading System) 
